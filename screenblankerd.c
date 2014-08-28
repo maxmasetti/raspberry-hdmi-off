@@ -1,3 +1,10 @@
+/*
+ * Copyleft 2014, Max Masetti
+ *
+ * Licensed under The MIT License
+ * Redistributions of files must retain the above copyright notice.
+ *
+ */
 #include <stdlib.h>
 #include <unistd.h>
 #include <fcntl.h>
